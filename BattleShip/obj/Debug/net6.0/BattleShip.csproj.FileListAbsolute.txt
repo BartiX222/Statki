@@ -1,0 +1,14 @@
+C:\Users\żonka\source\repos\BattleShip\BattleShip\bin\Debug\net6.0\BattleShip.exe
+C:\Users\żonka\source\repos\BattleShip\BattleShip\bin\Debug\net6.0\BattleShip.deps.json
+C:\Users\żonka\source\repos\BattleShip\BattleShip\bin\Debug\net6.0\BattleShip.runtimeconfig.json
+C:\Users\żonka\source\repos\BattleShip\BattleShip\bin\Debug\net6.0\BattleShip.dll
+C:\Users\żonka\source\repos\BattleShip\BattleShip\bin\Debug\net6.0\BattleShip.pdb
+C:\Users\żonka\source\repos\BattleShip\BattleShip\obj\Debug\net6.0\BattleShip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\żonka\source\repos\BattleShip\BattleShip\obj\Debug\net6.0\BattleShip.AssemblyInfoInputs.cache
+C:\Users\żonka\source\repos\BattleShip\BattleShip\obj\Debug\net6.0\BattleShip.AssemblyInfo.cs
+C:\Users\żonka\source\repos\BattleShip\BattleShip\obj\Debug\net6.0\BattleShip.csproj.CoreCompileInputs.cache
+C:\Users\żonka\source\repos\BattleShip\BattleShip\obj\Debug\net6.0\BattleShip.dll
+C:\Users\żonka\source\repos\BattleShip\BattleShip\obj\Debug\net6.0\refint\BattleShip.dll
+C:\Users\żonka\source\repos\BattleShip\BattleShip\obj\Debug\net6.0\BattleShip.pdb
+C:\Users\żonka\source\repos\BattleShip\BattleShip\obj\Debug\net6.0\BattleShip.genruntimeconfig.cache
+C:\Users\żonka\source\repos\BattleShip\BattleShip\obj\Debug\net6.0\ref\BattleShip.dll
